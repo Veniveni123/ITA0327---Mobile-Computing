@@ -1,0 +1,7 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Technique	Used in screen	Remark
+GPS	Map	Best accuracy outdoors
+Cell-ID	Settings (fallback)	Coarse, works indoors
+Wi-Fi positioning	Nearby	Good indoors in urban areas
+Geofencing	Geofence	Triggers events on entry and exit

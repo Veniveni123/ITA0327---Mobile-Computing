@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Screen	Key components	Convenience feature
+Home	Status bar, tiles	One-tap shortcuts
+Network	Toggles, list	Auto-select best network
+Quick Settings	Toggle grid	Hotspot and data saver
+Data Usage	Chart, limit	Alert near limit
+Call	Dial pad	Wi-Fi calling fallback

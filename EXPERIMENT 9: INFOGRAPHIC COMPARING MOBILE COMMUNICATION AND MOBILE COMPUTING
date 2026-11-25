@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Aspect	Mobile Communication	Mobile Computing
+Focus	Transmission of voice and data	Processing and accessing information on the move
+Main issues	Spectrum, handoff, interference	Energy, security, disconnection, data consistency
+Technologies	GSM, LTE, 5G, Wi-Fi	Mobile OS, middleware, Mobile IP, cloud
+Examples	Voice call, SMS	Maps, mobile banking, cloud apps
+Devices	Phones, base stations	Smartphones, tablets, wearables

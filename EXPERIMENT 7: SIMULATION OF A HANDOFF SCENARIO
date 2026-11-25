@@ -1,0 +1,7 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Stage	RSS from BS-A	RSS from BS-B	Decision
+H1	-70 dBm	-100 dBm	Stay on BS-A
+H2	-95 dBm	-88 dBm	Threshold crossed, prepare
+H3	-98 dBm	-80 dBm	Execute handoff (MSC signalling)
+H4	-105 dBm	-72 dBm	Served by BS-B

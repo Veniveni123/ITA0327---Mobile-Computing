@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION (FIGMA)
+
+KPI	Sample value	Target
+Call blocking probability	1.8%	below 2%
+Dropped call rate	0.9%	below 1%
+Handoff success rate	98.4%	above 98%
+Average user throughput	24 Mbps	above 20 Mbps
+SINR (median)	14 dB	above 10 dB

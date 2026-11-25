@@ -1,0 +1,7 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Application	CM (CC, SMS, SS)	IP applications	IP applications
+Network	MM, RR	IP, SNDCP	IP
+Link	LAPDm	LLC, RLC/MAC	PDCP, RLC, MAC
+Physical	TDMA radio (GMSK)	GSM radio	OFDMA/SC-FDMA
+Core-side tunnelling	SCCP, MTP (A interface)	BSSGP, GTP-U, UDP	GTP-U, UDP/IP (S1-U)

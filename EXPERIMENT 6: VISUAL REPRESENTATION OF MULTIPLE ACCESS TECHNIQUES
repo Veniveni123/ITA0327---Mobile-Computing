@@ -1,0 +1,7 @@
+DESIGN SPECIFICATION (FIGMA)
+
+FDMA	Frequency	AMPS	Simple	Poor spectrum efficiency
+TDMA	Time slots	GSM	Digital, flexible	Needs time synchronisation
+CDMA	Codes	IS-95, UMTS	Soft handoff, high capacity	Near-far problem
+OFDMA	Time-frequency blocks	LTE, 5G NR	Flexible, robust to fading	Sensitive to frequency offset
+SDMA	Space (beams)	MIMO, beamforming	Reuses spectrum	Complex antennas

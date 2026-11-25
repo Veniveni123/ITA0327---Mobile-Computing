@@ -1,0 +1,9 @@
+DESIGN SPECIFICATION (FIGMA):
+
+NSS element	Role used in the flowchart
+MSC	Call set-up, switching and paging
+VLR	Temporary subscriber record in the visited area
+HLR	Permanent subscriber record and current VLR address
+AuC	Generates authentication triplets
+EIR	Checks the IMEI (valid, stolen or faulty)
+GMSC	Entry point for calls to a mobile; interrogates the HLR

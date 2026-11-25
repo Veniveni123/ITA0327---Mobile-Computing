@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Control	Threat addressed
+Password + OTP	Unauthorised access
+Biometric / PIN	Lost or stolen device
+Encryption, VPN	Eavesdropping on the wireless link
+Permission manager	Privacy leakage
+Remote wipe	Data loss after theft

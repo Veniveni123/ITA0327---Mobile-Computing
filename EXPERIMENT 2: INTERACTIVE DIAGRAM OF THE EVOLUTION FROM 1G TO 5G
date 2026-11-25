@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION (FIGMA):
+
+Gen	Year	Technology	Access	Peak rate	Key feature
+1G	1980s	AMPS (analog)	FDMA	about 2.4 kbps	Analog voice only
+2G	1990s	GSM, GPRS, EDGE	TDMA/FDMA	up to 384 kbps	Digital voice, SMS
+3G	2000s	UMTS, HSPA	WCDMA	2 to 42 Mbps	Mobile internet, video calls
+4G	2010s	LTE, LTE-Advanced	OFDMA/SC-FDMA	100 Mbps to 1 Gbps	All-IP, HD streaming
+5G	2020s	New Radio (NR)	OFDMA, massive MIMO	up to 20 Gbps (target)	Low latency, IoT, network slicing

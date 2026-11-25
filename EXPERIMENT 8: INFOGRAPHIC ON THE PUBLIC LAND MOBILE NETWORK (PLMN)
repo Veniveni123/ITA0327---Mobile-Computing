@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Element	Detail
+PLMN ID	MCC + MNC
+HPLMN	Network where the subscriber is registered
+VPLMN	Network visited while roaming
+Interconnect	Roaming agreements, signalling between operators
+Components	RAN, core network, billing and OSS

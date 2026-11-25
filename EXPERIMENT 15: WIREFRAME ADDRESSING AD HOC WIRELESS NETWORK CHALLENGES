@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Ad hoc challenge	Wireframe feature
+Dynamic topology	Live topology graph and route refresh
+Limited battery	Battery indicator, power saving
+Unreliable links	Link quality, retry and relay status
+Hidden terminal and interference	Channel and signal indicators
+Security	Peer trust list, end-to-end encryption

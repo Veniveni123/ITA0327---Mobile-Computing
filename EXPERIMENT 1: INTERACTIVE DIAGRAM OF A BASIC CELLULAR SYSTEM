@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION :
+
+-Mobile Station (MS):	Handset plus SIM; initiates and receives calls over the air interface
+-BTS: Radio transceiver that serves one cell
+-BSC:	Controls several BTSs; radio channel allocation and handoff control
+-MSC:	Switching, call set-up, mobility management, interface to PSTN
+-HLR/VLR:	Permanent and visited-area subscriber databases
+-PSTN:	Fixed telephone network for external calls

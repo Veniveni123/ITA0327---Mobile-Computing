@@ -1,0 +1,6 @@
+DESIGN SPECIFICATION (FIGMA):
+
+SGSN	Mobility management, authentication, packet routing to the MS
+GGSN	Gateway to external packet networks; IP address assignment
+PCU/BSS	Radio resource allocation for packet channels
+GTP	Tunnelling protocol between SGSN and GGSN

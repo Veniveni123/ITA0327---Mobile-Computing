@@ -1,0 +1,8 @@
+DESIGN SPECIFICATION (FIGMA)
+
+Service	GSM feature represented
+Voice	Circuit-switched telephony
+SMS	Short message service over signalling channels
+Call forwarding / waiting / barring	Supplementary services
+USSD	Interactive menu through signalling
+Roaming	Registration in a visited PLMN
